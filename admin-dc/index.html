@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="myApp" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="myApp" class="no-js" ng-controller="AppController"> <!--<![endif]-->
+<head>
+    <base href="/">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The admin module of orange">
+    <meta name="author" content="Waitfish">
+
+    <title>貂蝉</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet"> -->
+
+    <!-- MetisMenu CSS -->
+    <link href="bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
+
+    <!-- Timeline CSS -->
+    <link href="dist/css/timeline.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="dist/css/sb-admin-2.css" rel="stylesheet">
+
+    <!-- Morris Charts CSS -->
+    <link href="bower_components/morrisjs/morris.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <div id="wrapper">        
+            <div ui-view></div>
+            
+            <!--供 angularjs 继承-->
+    </div>
+    <!-- jQuery -->
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <!-- Metis Menu Plugin JavaScript -->
+    <script src="bower_components/metisMenu/dist/metisMenu.min.js"></script>
+
+    <!-- Morris Charts JavaScript -->
+    <!--<script src="bower_components/raphael/raphael-min.js"></script>-->
+    <!--<script src="bower_components/morrisjs/morris.min.js"></script>-->
+    <!--<script src="js/morris-data.js"></script>-->
+
+    <!-- Custom Theme JavaScript -->
+    <script src="dist/js/sb-admin-2.js"></script>
+    <!-- In production use:
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
+    -->
+
+    <!-- Js installed by bower -->
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/restangular/src/restangular.js"></script>
+    <script src="bower_components/lodash/dist/lodash.js"></script>
+    <script src="bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+    <script src="bower_components/angular-messages/angular-messages.js"></script>
+    <!-- notify js -->
+    <script src="pages/js/notify.js"></script>
+    <!-- Js create by waitfish -->
+    <script src="pages/js/app.js"></script>
+    <script src="pages/js/dash.js"></script>
+    <script src="pages/js/hosts.js"></script>
+    <script src="pages/js/res.js"></script>
+    <script src="pages/js/webs.js"></script>
+    <script src="pages/js/router.js"></script>
+    <!-- Controller file -->
+    <script src="pages/js/controllers/RegisterController.js"></script>
+    <script src="pages/js/controllers/LoginController.js"></script>
+    <script src="pages/js/controllers/AppController.js"></script>
+    <script src="pages/js/controllers/HostController.js"></script>
+    <script src="pages/js/controllers/HostResController.js"></script>
+    <script src="pages/js/controllers/WebController.js"></script>
+    <!-- Service file -->
+    <script src="pages/js/services/authService.js"></script>
+    <script src="pages/js/services/notifyService.js"></script>
+    <script src="pages/js/services/hostService.js"></script>
+    <script src="pages/js/services/hostResService.js"></script>
+    <script src="pages/js/services/webService.js"></script>
+    <!-- Create by default -->
+    <script src="components/version/version.js"></script>
+    <script src="components/version/version-directive.js"></script>
+    <script src="components/version/interpolate-filter.js"></script>
+</body>
+</html>

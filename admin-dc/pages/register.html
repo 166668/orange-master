@@ -1,0 +1,59 @@
+<div class="container" ng-controller="RegisterController">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <div class="panel panel-default">
+            <div class="panel-heading">
+            </div>
+                <div class="panel-body">
+                    <div role="form" class="form-horizontal">
+                        <ng-form name="register_form" novalidate >
+                            <div class="form-group">
+                                <lable class="col-sm-2 control-label">Email:</lable>
+                                <div class="col-sm-10">
+                                    <input class="form-control"
+                                    ng-model="userinfo.useremail"
+                                    placeholder="请输入电子邮箱作为用户名" name="email" type="email" autofocus required minlength="6"  ng-maxlength="20"/ >
+                                </div>
+                            </div>
+
+                            <div ng-messages="register_form.email.$error" ng-if="register_form.email.$dirty" ng-messages-multiple ng-messages-include="pages/error.html">
+                            </div>
+
+
+                            <div class="form-group">
+                                <lable class="col-sm-2 control-label">Password:</lable>
+                                <div class="col-sm-10">
+                                  <input class="form-control" 
+                                  ng-model="userinfo.userpassword"
+                                  placeholder="请输入密码" name="password" type="password" required ng-minlength="6" ng-maxlength="20"/>
+                                </div>
+                            </div>
+
+                            <div ng-messages="register_form.password.$error" ng-if="register_form.password.$dirty" ng-messages-multiple ng-messages-include="pages/error.html">
+                            </div>
+
+                            <div class="form-group">
+                                <lable class="col-sm-2 control-label"></lable>
+                                <div class="col-sm-10">
+                                  <input class="form-control" placeholder="请再次输入密码" name="password-again" type="password"  required ng-minlength="6" ng-maxlength="20"/>
+                                </div>
+                            </div>
+
+                            <div ng-messages="register_form.password-again.$error" ng-if="register_form.password-again.$dirty" ng-messages-multiple ng-messages-include="pages/error.html">
+                            </div>
+
+                            <!-- <lable class="col-sm-2 control-label"></lable> -->
+                            <button class="btn btn-success col-sm-offset-2" ng-disabled="register_form.$invalid" ng-click="register(userinfo)">注册</button>
+                        </ng-form>
+                    </div>
+                </div>
+
+                <div class="panel-footer">
+                    <div class="alert alert-error">
+                        {{userinfo | json}}
+                    </div>
+                </div>               
+            </div>
+        </div>
+    </div>
+</div>

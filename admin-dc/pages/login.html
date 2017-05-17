@@ -1,0 +1,47 @@
+<div class="container" ng-controller="LoginController">
+    <div class="row">
+        <div class="col-md-4 col-md-offset-4">
+            <div class="login-panel panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Please Sign In</h3>
+                </div>
+                <div class="panel-body">
+                    <form role="form" name="login_form" novalidate>
+                        <fieldset>
+                            <div class="form-group">
+                                <input class="form-control" placeholder="E-mail" name="email" type="email" autofocus
+                                ng-model="userinfo.useremail" required ng-minlength="6" ng-maxlength="20"
+                                >
+
+                                <div ng-messages="login_form.email.$error" ng-if="login_form.email.$dirty" ng-messages-multiple >
+                                    <div ><p class="text-danger" ng-message="email">* 请输入 email 地址</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <input class="form-control" placeholder="Password" name="password" type="password" value=""
+                                ng-model="userinfo.userpassword" required ng-minlength="6" ng-maxlength="20"
+                                >
+                                <div ng-messages="login_form.password.$error" ng-if="login_form.password.$dirty">
+                                <div><p class="text-danger" ng-message="minlength">* 密码长度为 6-20 个字符 </p></div>
+                                <div><p class="text-danger" ng-message="maxlength">* 密码长度为 6-20 个字符 </p></div>
+                                </div>
+                            </div>
+                            <!-- <div class="checkbox">
+                                <label>
+                                    <input name="remember" type="checkbox" value="Remember Me">Remember Me
+                                </label>
+                            </div> -->
+                            <a  class="btn btn-lg btn-success btn-block"
+
+                            ng-disabled="login_form.$invalid" ng-click="login(userinfo)"
+                            >Login</a>
+
+                            <a ui-sref="register">register</a>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,89 @@
+<div ng-controller="HostResHistoryController">
+    <style>
+        .red {
+         color: red;
+    }
+        .green {
+     color: green;
+    }
+    </style>
+    <div id="page-wrapper">
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>根据主机名搜索</p>
+                    <input ng-model="searchText">
+                    <hr>
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>
+            <!-- /.row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                       <!--  <div class="panel-heading">
+                        <a href="#/pages/addhost">添加主机</a>
+                        </div> -->
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <div class="dataTable_wrapper">
+                                <table class="table table-striped table-bordered table-hover" id="dataTables-example">
+                                    <thead>
+                                        <tr>
+                                            <th>Hostname</th>
+                                            <th>IP</th>
+                                            <th>Time</th>
+                                            <th>Tcp_Res</th>
+                                            <th>Udp_Res</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr ng-repeat="res in results |orderBy:'Time':true| filter:searchText|limitTo:100">
+                                            <td class="center">{{res.Hostname}}</td>
+                                            <td class="center">{{res.Ip}}</td>
+                                            <td class="center">{{res.Time|date:'yyyy-MM-dd HH:mm:ss '}}</td>
+                                            <td><p ng-repeat="(__key__,__value__) in res.Tcp_res" >{{__key__}}<--<span ng-class="{'red':!__value__,'green':__value__}">{{__value__}}</span></p></td>
+                                            <td><p ng-repeat="(__key__,__value__) in res.Udp_res" >{{__key__}}<--<span ng-class="{'red':!__value__,'green':__value__}">{{__value__}}</span></p></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>
+            <!-- /.row -->
+
+        <!-- jQuery -->
+    <script src="../bower_components/jquery/dist/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <!-- Metis Menu Plugin JavaScript -->
+    <script src="../bower_components/metisMenu/dist/metisMenu.min.js"></script>
+
+    <!-- DataTables JavaScript -->
+    <script src="../bower_components/DataTables/media/js/jquery.dataTables.min.js"></script>
+    <script src="../bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="../dist/js/sb-admin-2.js"></script>
+
+    <!-- Page-Level Demo Scripts - Tables - Use for reference -->
+    <!--<script>-->
+    <!--$(document).ready(function() {-->
+        <!--$('#dataTables-example').DataTable({-->
+                <!--responsive: false-->
+        <!--});-->
+    <!--});-->
+    <!--</script>-->
+</div>
+</div>
+
+<!-- /#page-wrapper -->
+
+
+

@@ -1,0 +1,1533 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"web",
+				"webService"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"$lo",
+				"$location	AngularJS"
+			],
+			[
+				"us",
+				"user_from_db	UserInfo ν"
+			],
+			[
+				"check",
+				"Check_Exist_By_Email	exist bool, user UserInfo ƒ"
+			],
+			[
+				"c",
+				"Check_Exist_By_Email	exist bool ƒ"
+			],
+			[
+				"$loca",
+				"$location	AngularJS(DI)"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS(DI)"
+			],
+			[
+				"con",
+				"controller	AngularJS"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"Add",
+				"Add_User_For_Api	 ƒ"
+			],
+			[
+				"z",
+				"ZhuGeliang	struct ʈ"
+			],
+			[
+				"U",
+				"UserId	string ν"
+			],
+			[
+				"lab",
+				"label	<label>"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"s",
+				"Save_Res_Check	 ƒ"
+			],
+			[
+				"Chec",
+				"Check_Port	status Check_Res ƒ"
+			],
+			[
+				"re",
+				"res_chan	chan Check_Res ν"
+			],
+			[
+				"h",
+				"host_chan	chan Host ν"
+			],
+			[
+				"hos",
+				"Host	struct ʈ"
+			],
+			[
+				"Q",
+				"Query_Host_For_Api	hosts []Host ƒ"
+			],
+			[
+				"st",
+				"status	Check_Res ν"
+			],
+			[
+				"ho",
+				"host	models.Host ν"
+			],
+			[
+				"im",
+				"import	import (...) ʂ"
+			],
+			[
+				"H",
+				"Host_From_Web	struct ʈ"
+			],
+			[
+				"Print",
+				"Println	 ƒ"
+			],
+			[
+				"Res",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"r",
+				"routeParams"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"b",
+				"baseHosts"
+			],
+			[
+				"g",
+				"getList"
+			],
+			[
+				"w",
+				"WriteJson	error ƒ"
+			],
+			[
+				"res",
+				"res_error	[]string ν"
+			],
+			[
+				"P",
+				"Println	 ƒ"
+			],
+			[
+				"print",
+				"Printf	 ƒ"
+			],
+			[
+				"W",
+				"WriteJson	error ƒ"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"p",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"f",
+				"func	Function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pages/js/services/webService.js",
+			"settings":
+			{
+				"buffer_size": 623,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/js/controllers/WebController.js",
+			"settings":
+			{
+				"buffer_size": 790,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/addweb.html",
+			"settings":
+			{
+				"buffer_size": 2578,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/js/webs.js",
+			"settings":
+			{
+				"buffer_size": 1805,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/nav.html",
+			"settings":
+			{
+				"buffer_size": 15200,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/waitfish/mygo/src/coding.net/waitfish/orange/main.go",
+			"settings":
+			{
+				"buffer_size": 2662,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/waitfish/mygo/src/coding.net/waitfish/orange/models/zhugeliang.go",
+			"settings":
+			{
+				"buffer_size": 8567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/js/app.js",
+			"settings":
+			{
+				"buffer_size": 658,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/waitfish/Documents/AdsProject/app/js/controllers/RegisterController.js",
+			"settings":
+			{
+				"buffer_size": 755,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/js/controllers/RegisterController.js",
+			"settings":
+			{
+				"buffer_size": 684,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/waitfish/Documents/AdsProject/app/js/services/authService.js",
+			"settings":
+			{
+				"buffer_size": 2310,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/js/router.js",
+			"settings":
+			{
+				"buffer_size": 2975,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/webs.html",
+			"settings":
+			{
+				"buffer_size": 3320,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/web_status_now.html",
+			"settings":
+			{
+				"buffer_size": 3549,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/web_status_history.html",
+			"settings":
+			{
+				"buffer_size": 3560,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssan",
+				"Set Syntax: CoffeeScript (Angular.js)"
+			],
+			[
+				"boots",
+				"Goto Bootstrap: Forms"
+			],
+			[
+				"ss",
+				"Set Syntax: HTML5"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"bootstar",
+				"Goto Bootstrap: CSS"
+			],
+			[
+				"starp",
+				"Goto Bootstrap: Examples"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"",
+				"Build: Build"
+			]
+		],
+		"width": 754.0
+	},
+	"console":
+	{
+		"height": 199.0,
+		"history":
+		[
+			"env",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"  import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2",
+			"import os;",
+			"import urllib2",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/controllers",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/services",
+		"/Users/waitfish/Documents/AdsProject/app"
+	],
+	"file_history":
+	[
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/register.html",
+		"/Users/waitfish/Documents/AdsProject/app/js/controllers/RegisterController.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/main.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/mout/number/MAX_INT.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/.bin/minijasminenode",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/addhost.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/app.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_Alert.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_testing_Assertion_DelegatingMatcher_.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/web_status_history.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/karma/node_modules/http-proxy/benchmark/websockets-throughput.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/webs.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/hosts.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/hosts.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/controllers/HostController.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/controllers/HostResController.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/res_history.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/res_now.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/controllers/WebController.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/services/hostResService.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/nav.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/router.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/glob/test/readme-issue.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/bower-registry-client/node_modules/request/tests/test-isUrl.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/models/webs.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/controllers/webctrl.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_Locator.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_webdriver_logging.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/lib/goog/events/listenable.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/host.html",
+		"/Users/waitfish/Documents/AdsProject/app/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/services/webService.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/pages/newhosts.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/-d",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/karma/node_modules/socket.io/History.md",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/mocha/History.md",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/templates/json/help-info.json",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/services/hostService.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/models/hosts.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/bootstrap/less/mixins/nav-vertical-align.less",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/dash.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/datatables-plugins/api/fnAddDataAndDisplay.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/.idea/admin-dc.iml",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/.bin/http-server",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/karma/node_modules/connect/lib/middleware/vhost.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/decompress-zip/download-test-assets.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/delete",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/controller.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_events.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower.json",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/karma/node_modules/minimatch/test/brace-expand.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/mout/string/endsWith.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/error.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/controllers/AppController.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/services/authService.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/services/notifyService.js",
+		"/Users/waitfish/Documents/AdsProject/app/templates/register.html",
+		"/Users/waitfish/Documents/AdsProject/app/js/services/authService.js",
+		"/Users/waitfish/Documents/AdsProject/app/templates/login.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/login.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/models/zhugeliang.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/controllers/userinfoctrl.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/models/zhangfei.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/controllers/RegisterController.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/controllers/LoginController.js",
+		"/Users/waitfish/Documents/AdsProject/app/js/controllers/LoginController.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/tests/curl",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bak/index.html",
+		"/Users/waitfish/Documents/study/tpls3/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/mout/math/isNear.js",
+		"/Users/waitfish/Documents/study/bower_components/bootstrap/less/mixins/nav-vertical-align.less",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bak/pages/login.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/testapp/login.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/slow_loading_iframes.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/node_modules/xml2js/node_modules/xmlbuilder/node_modules/lodash-node/compat/objects/isNull.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/lib/util/rootCheck.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/orange",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/karma/node_modules/http-proxy/test/http/routing-table-test.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/bower-registry-client/test/core/util/createError.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/retry/lib/retry_operation.js",
+		"/Users/waitfish/Documents/study/bower_components/angular-ui-router/src/urlRouter.js",
+		"/Users/waitfish/Documents/study/tpls3/usermng.html",
+		"/Users/waitfish/Documents/study/usrmng.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/mout/string/escapeRegExp.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/.idea/encodings.xml",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/app/app.js",
+		"/Users/waitfish/Documents/AdsProject/app/js/app.js",
+		"/Users/waitfish/Documents/study/js/app.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/lib/commands/register.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/notifications.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/testapp/ngHint/noTag.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_object.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/noty/js/noty/jquery.noty.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/datatables-plugins/api/fnFilterOnReturn.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/lib/configParser.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_promise_Node_.html",
+		"/Users/waitfish/Documents/study/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/mout/lang/isNull.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/app/app.css",
+		"/Users/waitfish/Documents/AdsProject/app/css/app.css",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/.idea/libraries/angular_phonecat_node_modules.xml",
+		"/Users/waitfish/Documents/study/bower_components/angular-ui-router/CONTRIBUTING.md",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/config.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/mout/lang/createObject.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/node_modules/xml2js/node_modules/xmlbuilder/node_modules/lodash-node/compat/internals/largeArraySize.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/bower-registry-client/node_modules/lru-cache/AUTHORS",
+		"/Users/waitfish/Documents/study/bower_components/bootstrap/less/responsive-embed.less",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/README.md",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/rimraf/AUTHORS",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/http-server/test/http-server-test.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/services/authServer.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/models/user.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/bootstrap/package.json",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/typography.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bak/pages/notifications.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/ws/lib/WebSocket.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/jasmine/node_modules/jasmine-core/.sass-cache/165c00c5840c6012ccde4069d7d3476235dd1124/_unstyled-link.scssc",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/class_goog_Uri.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/cardinal/test/fixtures/foo-with-errors.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/mkdirp/test/umask_sync.js",
+		"/Users/waitfish/Documents/study/bower_components/jquery/src/var/hasOwn.js",
+		"/Users/waitfish/Documents/AdsProject/app/js/services/notifyService.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/jquery/src/css/addGetHookIf.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/angular-ui-router/release/angular-ui-router.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/flot.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/LICENSE"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ZhuGeliang",
+			"webs_status",
+			"webstatusnow",
+			"div",
+			"requird",
+			"class=\"col-sm-offset-2\"",
+			">*",
+			"register_form",
+			"userinfo",
+			"controller",
+			"},\n",
+			"web",
+			"Web",
+			"web",
+			"baseServiceUrl",
+			"password-again",
+			"ng-model=\"",
+			"\">",
+			"<p",
+			">>",
+			"</p>",
+			"\">",
+			"</p>",
+			"<p class=\"text-danger\"",
+			"<div class=\"col-sm-10 col-xs-offset-1\">",
+			"col-sm-12",
+			"<div class=\"col-sm-12\">",
+			"div",
+			"div class=\"alert alert-danger\"",
+			"<a href=\"#\" class=\"alert-link\">Alert Link</a>.",
+			"aria-hidden",
+			"dismiss",
+			"div",
+			"',\n",
+			"require",
+			"index",
+			"wg",
+			"class",
+			"state",
+			"State",
+			"state",
+			"State",
+			"state",
+			"The hostname is existed",
+			"jquery.min.map"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pages/js/services/webService.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								619,
+								619
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pages/js/controllers/WebController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								426,
+								442
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pages/addweb.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pages/js/webs.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1446,
+								1075
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 260.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pages/nav.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15031,
+								15031
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3863.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/waitfish/mygo/src/coding.net/waitfish/orange/main.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								190
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/waitfish/mygo/src/coding.net/waitfish/orange/models/zhugeliang.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4408,
+								4418
+							],
+							[
+								4682,
+								4692
+							],
+							[
+								5291,
+								5301
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 2786.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "pages/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								344,
+								344
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/waitfish/Documents/AdsProject/app/js/controllers/RegisterController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "pages/js/controllers/RegisterController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/waitfish/Documents/AdsProject/app/js/services/authService.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "pages/js/router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2975,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								738,
+								738
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "pages/webs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								553,
+								553
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "pages/web_status_now.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								739,
+								622
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "pages/web_status_history.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								633,
+								750
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 728.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/waitfish/mygo/src/coding.net/waitfish/orange":
+	{
+		"height": 261.0
+	},
+	"output.9o:///Users/waitfish/mygo/src/coding.net/waitfish/orange/controllers":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/waitfish/mygo/src/coding.net/waitfish/orange/models":
+	{
+		"height": 123.0
+	},
+	"output.9o:///Users/waitfish/mygo/src/github.com/dockerboard/dockerboard/app/controllers":
+	{
+		"height": 296.0
+	},
+	"output.9o:///Users/waitfish/mygo/src/mymath":
+	{
+		"height": 134.0
+	},
+	"output.9o:///Users/waitfish/mygo/src/study":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "dc.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"orange/admin-dc/pages/js/app.js"
+			],
+			[
+				"au",
+				"app/js/services/authService.js"
+			],
+			[
+				"regist",
+				"orange/admin-dc/pages/js/controllers/RegisterController.js"
+			],
+			[
+				"zhuge",
+				"orange/models/zhugeliang.go"
+			],
+			[
+				"zhu",
+				"orange/models/zhugeliang.go"
+			],
+			[
+				"main",
+				"orange/main.go"
+			],
+			[
+				"nav",
+				"orange/admin-dc/pages/nav.html"
+			],
+			[
+				"route",
+				"orange/admin-dc/pages/js/router.js"
+			],
+			[
+				"addweb",
+				"orange/admin-dc/pages/addweb.html"
+			],
+			[
+				"webhist",
+				"orange/admin-dc/pages/web_status_history.html"
+			],
+			[
+				"webstat",
+				"orange/admin-dc/pages/web_status_now.html"
+			],
+			[
+				"webcon",
+				"orange/admin-dc/pages/js/controllers/WebController.js"
+			],
+			[
+				"webser",
+				"orange/admin-dc/pages/js/services/webService.js"
+			],
+			[
+				"websta",
+				"orange/admin-dc/pages/web_status_now.html"
+			],
+			[
+				"web",
+				"orange/admin-dc/pages/webs.html"
+			],
+			[
+				"webs",
+				"orange/admin-dc/pages/js/services/webService.js"
+			],
+			[
+				"",
+				"orange/admin-dc/pages/webs.html"
+			],
+			[
+				"webc",
+				"orange/admin-dc/pages/js/controllers/WebController.js"
+			],
+			[
+				"hostc",
+				"orange/admin-dc/pages/js/controllers/HostController.js"
+			],
+			[
+				"index",
+				"orange/admin-dc/index.html"
+			],
+			[
+				"rou",
+				"orange/admin-dc/pages/js/router.js"
+			],
+			[
+				"router",
+				"orange/admin-dc/pages/js/router.js"
+			],
+			[
+				"hist",
+				"orange/admin-dc/pages/res_history.html"
+			],
+			[
+				"res",
+				"orange/admin-dc/pages/res_now.html"
+			],
+			[
+				"hosrres",
+				"orange/admin-dc/pages/js/controllers/HostResController.js"
+			],
+			[
+				"hosts",
+				"orange/admin-dc/pages/js/services/hostService.js"
+			],
+			[
+				"add",
+				"orange/admin-dc/pages/addhost.html"
+			],
+			[
+				"host",
+				"orange/admin-dc/pages/host.html"
+			],
+			[
+				"hosts.js",
+				"orange/admin-dc/pages/js/hosts.js"
+			],
+			[
+				"host.js",
+				"orange/admin-dc/pages/js/hosts.js"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"das",
+				"orange/admin-dc/pages/dash.html"
+			],
+			[
+				"m",
+				"orange/main.go"
+			],
+			[
+				"hostser",
+				"orange/admin-dc/pages/js/services/hostService.js"
+			],
+			[
+				"hoss",
+				"orange/admin-dc/pages/js/services/hostService.js"
+			],
+			[
+				"new",
+				"orange/pages/newhosts.html"
+			],
+			[
+				"hostsht",
+				"orange/admin-dc/pages/hosts.html"
+			],
+			[
+				"auth",
+				"app/js/services/authService.js"
+			],
+			[
+				"authjs",
+				"orange/admin-dc/pages/js/services/authService.js"
+			],
+			[
+				"login",
+				"orange/admin-dc/pages/login.html"
+			],
+			[
+				"hostshtml",
+				"orange/admin-dc/pages/hosts.html"
+			],
+			[
+				"loginjs",
+				"orange/admin-dc/pages/js/controllers/LoginController.js"
+			],
+			[
+				"logjs",
+				"app/js/controllers/LoginController.js"
+			],
+			[
+				"log",
+				"orange/admin-dc/pages/login.html"
+			],
+			[
+				"logijs",
+				"orange/admin-dc/pages/js/controllers/LoginController.js"
+			],
+			[
+				"loginhtml",
+				"orange/admin-dc/pages/login.html"
+			],
+			[
+				"u",
+				"orange/controllers/userinfoctrl.go"
+			],
+			[
+				"login.js",
+				"orange/admin-dc/pages/js/controllers/LoginController.js"
+			],
+			[
+				"mai",
+				"orange/main.go"
+			],
+			[
+				"use",
+				"orange/controllers/userinfoctrl.go"
+			],
+			[
+				"curl",
+				"orange/tests/curl"
+			],
+			[
+				"url",
+				"study/bower_components/angular-ui-router/src/urlRouter.js"
+			],
+			[
+				"zhang",
+				"orange/models/zhangfei.go"
+			],
+			[
+				"zhangfei",
+				"orange/models/zhangfei.go"
+			],
+			[
+				"user",
+				"orange/controllers/userinfoctrl.go"
+			],
+			[
+				"reg",
+				"orange/admin-dc/pages/register.html"
+			],
+			[
+				"err",
+				"orange/admin-dc/pages/error.html"
+			],
+			[
+				"login.ht",
+				"app/templates/login.html"
+			],
+			[
+				"app.js",
+				"orange/admin-dc/pages/js/app.js"
+			],
+			[
+				"regi",
+				"orange/admin-dc/pages/register.html"
+			],
+			[
+				"register",
+				"orange/admin-dc/pages/register.html"
+			],
+			[
+				"con",
+				"orange/admin-dc/pages/js/controller.js"
+			],
+			[
+				"contro",
+				"orange/admin-dc/pages/js/controller.js"
+			],
+			[
+				"regis",
+				"app/js/controllers/RegisterController.js"
+			],
+			[
+				"authser",
+				"orange/admin-dc/pages/js/services/authServer.js"
+			],
+			[
+				"authserver",
+				"orange/admin-dc/pages/js/services/authServer.js"
+			],
+			[
+				"zhug",
+				"orange/models/zhugeliang.go"
+			],
+			[
+				"cur",
+				"orange/tests/curl"
+			],
+			[
+				"user.go",
+				"orange/models/user.go"
+			],
+			[
+				"userinfo",
+				"orange/controllers/userinfoctrl.go"
+			],
+			[
+				"zhugel",
+				"orange/models/zhugeliang.go"
+			],
+			[
+				"re",
+				"admin-dc/pages/register.html"
+			],
+			[
+				"ap",
+				"admin-dc/pages/js/app.js"
+			],
+			[
+				"error",
+				"admin-dc/pages/error.html"
+			],
+			[
+				"r",
+				"admin-dc/pages/register.html"
+			],
+			[
+				"e",
+				"admin-dc/pages/error.html"
+			],
+			[
+				"typography",
+				"admin-dc/pages/typography.html"
+			],
+			[
+				"erro",
+				"admin-dc/pages/error.html"
+			],
+			[
+				"no",
+				"admin-dc/bak/pages/notifications.html"
+			],
+			[
+				"lo",
+				"admin-dc/pages/login.html"
+			],
+			[
+				"noti",
+				"admin-dc/bak/pages/notifications.html"
+			],
+			[
+				"ind",
+				"admin-dc/pages/index.html"
+			],
+			[
+				"addhos",
+				"admin-dc/pages/addhost.html"
+			],
+			[
+				"loi",
+				"admin-dc/pages/login.html"
+			],
+			[
+				"logi",
+				"app/templates/login.html"
+			],
+			[
+				"topba",
+				"study/tpls3/topbar.html"
+			],
+			[
+				"study/",
+				"study/tpls3/topbar.html"
+			],
+			[
+				"main.",
+				"orange/main.go"
+			],
+			[
+				"index.html",
+				"orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/source/io/index.js.src.html"
+			],
+			[
+				"test",
+				"study/test.html"
+			],
+			[
+				".ig",
+				"diaochang/node_modules/bower/node_modules/fstream-ignore/test/.ignore"
+			],
+			[
+				"orange.go",
+				"diaochang/node_modules/karma/node_modules/connect/node_modules/send/node_modules/range-parser/.npmignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/mygo/src/coding.net/waitfish/orange/orange.sublime-project"
+			],
+			[
+				"study",
+				"~/Documents/study/test.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

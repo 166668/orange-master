@@ -1,0 +1,14 @@
+ curl -i -d '{"hostname":"dwj","ip":"202.101.172.45"}'  127.0.0.1:8080/api/host
+ curl -i -d '{"name":"dwj","url":"http://dockerpool.com","Pattern":"docker"}'  127.0.0.1:8080/api/web
+
+
+ curl -i -d {"useremail":"dwj@123.com","userpassword":"123456"}  127.0.0.1:8080/api/user
+
+
+
+
+ curl -i -H 'Content-Type: application/json' \
+ -d '{"useremail":"dwj@12333.com","userpassword":"123456"}' http://127.0.0.1:8080/api/user/register
+
+  curl -i -H 'Content-Type: application/json' \
+ -d '{"Useremail":"dwj@12333.com","Userpassword":"123456"}' http://127.0.0.1:8080/api/user/login

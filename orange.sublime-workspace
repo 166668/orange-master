@@ -1,0 +1,959 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"Save_Res_Check	 ƒ"
+			],
+			[
+				"Chec",
+				"Check_Port	status Check_Res ƒ"
+			],
+			[
+				"re",
+				"res_chan	chan Check_Res ν"
+			],
+			[
+				"h",
+				"host_chan	chan Host ν"
+			],
+			[
+				"hos",
+				"Host	struct ʈ"
+			],
+			[
+				"Q",
+				"Query_Host_For_Api	hosts []Host ƒ"
+			],
+			[
+				"st",
+				"status	Check_Res ν"
+			],
+			[
+				"ho",
+				"host	models.Host ν"
+			],
+			[
+				"im",
+				"import	import (...) ʂ"
+			],
+			[
+				"H",
+				"Host_From_Web	struct ʈ"
+			],
+			[
+				"Print",
+				"Println	 ƒ"
+			],
+			[
+				"Res",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"U",
+				"Upsert	info *mgo.ChangeInfo, err error ƒ"
+			],
+			[
+				"r",
+				"routeParams"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"b",
+				"baseHosts"
+			],
+			[
+				"g",
+				"getList"
+			],
+			[
+				"w",
+				"WriteJson	error ƒ"
+			],
+			[
+				"res",
+				"res_error	[]string ν"
+			],
+			[
+				"P",
+				"Println	 ƒ"
+			],
+			[
+				"print",
+				"Printf	 ƒ"
+			],
+			[
+				"W",
+				"WriteJson	error ƒ"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"p",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"f",
+				"func	Function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "admin-dc/pages/js/app.js",
+			"settings":
+			{
+				"buffer_size": 489,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admin-dc/js/router.js",
+			"settings":
+			{
+				"buffer_size": 1501,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admin-dc/jquery.min.map",
+			"settings":
+			{
+				"buffer_size": 127542,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admin-dc/LICENSE",
+			"settings":
+			{
+				"buffer_size": 11336,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admin-dc/pages/login.html",
+			"settings":
+			{
+				"buffer_size": 1570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admin-dc/pages/register.html",
+			"settings":
+			{
+				"buffer_size": 2690,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admin-dc/pages/res_now.html",
+			"settings":
+			{
+				"buffer_size": 3789,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/waitfish/Documents/study/js/app.js",
+			"settings":
+			{
+				"buffer_size": 4554,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/waitfish/Documents/study/tpls3/topbar.html",
+			"settings":
+			{
+				"buffer_size": 576,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin-dc/index.html",
+			"settings":
+			{
+				"buffer_size": 3504,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admin-dc/pages/index.html",
+			"settings":
+			{
+				"buffer_size": 88,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admin-dc/pages/nav.html",
+			"settings":
+			{
+				"buffer_size": 15106,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"",
+				"Build: Build"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 199.0,
+		"history":
+		[
+			"env",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"  import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2",
+			"import os;",
+			"import urllib2",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/waitfish/Documents/study"
+	],
+	"file_history":
+	[
+		"/Users/waitfish/Documents/study/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/LICENSE",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/res_history.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/bootstrap/less/responsive-embed.less",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/README.md",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/bootstrap/less/navbar.less",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/panels-wells.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/bootstrap/less/mixins/nav-vertical-align.less",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/bootstrap/less/mixins/text-overflow.less",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/datatables-plugins/api/fnVisibleToColumnIndex.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/datatables-responsive/examples/initialisation/new.xml",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bak/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/addhost.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/nav.html",
+		"/Users/waitfish/Documents/study/study.sublime-project",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/datatables-plugins/pagination/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/datatables-plugins/i18n/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/datatables-plugins/filtering/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/datatables-plugins/api/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/html5-boilerplate/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bak/pages/index.html",
+		"/Users/waitfish/Documents/study/tpls3/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bak/LICENSE",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/.idea/scopes/scope_settings.xml",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/angular-ui-router/src/state.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/datatables-plugins/sorting/turkish-string.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/jquery/src/var/strundefined.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/jquery/src/css/defaultDisplay.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/web_status_history.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/datatables-plugins/api/fnStandingRedraw.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/datatables-plugins/api/fnDisplayStart.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/jquery/src/attributes/prop.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/app.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/flot/API.md",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/app/app.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/app/app.css",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/.idea/libraries/angular_phonecat_node_modules.xml",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/orange.sublime-project",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/main.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/handlebars/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/source/io/index.js.src.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/source/http/index.js.src.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/source/firefox/index.js.src.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/source/index.js.src.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/handlebars/coverage/lcov-report/lib/index.js.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/karma-chrome-launcher/index.js",
+		"/Users/waitfish/Documents/study/test.html",
+		"/Users/waitfish/Documents/study/index.htmk",
+		"/Users/waitfish/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/test.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/mout/lang/isNull.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/models/zhugeliang.go",
+		"/Users/waitfish/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/fstream-ignore/test/.ignore",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/models/zhangfei.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/shelljs/src/toEnd.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/bower/node_modules/retry/test/integration/test-timeouts.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/config.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/models/common.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/jquery.min.map",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/firefox/jetpack-sample.xpi",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/karma/node_modules/socket.io/node_modules/socket.io-client/node_modules/active-x-obfuscator/.index.js.un~",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/.gitignore",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/html5-boilerplate/.htaccess",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_promise_Frame_.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/karma/node_modules/connect/node_modules/send/node_modules/range-parser/.npmignore",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/restangular/CHANGELOG.md",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_labs_userAgent_engine.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/orange",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/controllers/gethost.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/namespace_goog_object.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/models/check_res.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/models/liubei.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/models/hosts.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/hosts.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/dash.js",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/controllers/webctrl.go",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/hosts.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/bower_components/jquery/dist/jquery.min.js",
+		"/Users/waitfish/Downloads/Dashboard Template for Bootstrap.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/login.html",
+		"/Users/waitfish/Documents/angular-seed/app/index.html",
+		"/Users/waitfish/mygo/src/coding.net/waitfish/orange/admin-dc/pages/js/res.js",
+		"/Users/waitfish/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/waitfish/mygo/src/github.com/dockerboard/dockerboard/screenshots/0-demo.gif",
+		"/Users/waitfish/mygo/src/study/helloworld.go",
+		"/Users/waitfish/mygo/src/github.com/dockerboard/dockerboard/app/app.go",
+		"/Users/waitfish/mygo/src/study/l_var.go",
+		"/Users/waitfish/mygo/src/study/study",
+		"/Users/waitfish/mygo/src/study/helloworld",
+		"/Users/waitfish/mygo/src/mymath/sqrt.go",
+		"/Users/waitfish/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/waitfish/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"require",
+			"index",
+			"wg",
+			"class",
+			"state",
+			"State",
+			"state",
+			"State",
+			"state",
+			"The hostname is existed",
+			"jquery.min.map"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "admin-dc/pages/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								489,
+								489
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "admin-dc/js/router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "admin-dc/jquery.min.map",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 127542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "admin-dc/LICENSE",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 11336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "admin-dc/pages/login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1344,
+								1344
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "admin-dc/pages/register.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "admin-dc/pages/res_now.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/waitfish/Documents/study/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1171,
+								1171
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/waitfish/Documents/study/tpls3/topbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								307
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "admin-dc/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3110,
+								3110
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 548.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "admin-dc/pages/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 88,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "admin-dc/pages/nav.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13203,
+								13203
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3517.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/waitfish/mygo/src/coding.net/waitfish/orange":
+	{
+		"height": 261.0
+	},
+	"output.9o:///Users/waitfish/mygo/src/coding.net/waitfish/orange/controllers":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/waitfish/mygo/src/coding.net/waitfish/orange/models":
+	{
+		"height": 97.0
+	},
+	"output.9o:///Users/waitfish/mygo/src/github.com/dockerboard/dockerboard/app/controllers":
+	{
+		"height": 296.0
+	},
+	"output.9o:///Users/waitfish/mygo/src/mymath":
+	{
+		"height": 134.0
+	},
+	"output.9o:///Users/waitfish/mygo/src/study":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "orange.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"admin-dc/index.html"
+			],
+			[
+				"app",
+				"admin-dc/pages/js/app.js"
+			],
+			[
+				"login",
+				"admin-dc/pages/login.html"
+			],
+			[
+				"res",
+				"admin-dc/pages/res_now.html"
+			],
+			[
+				"nav",
+				"admin-dc/pages/nav.html"
+			],
+			[
+				"",
+				"admin-dc/pages/js/app.js"
+			],
+			[
+				"topba",
+				"study/tpls3/topbar.html"
+			],
+			[
+				"inde",
+				"admin-dc/pages/index.html"
+			],
+			[
+				"study/",
+				"study/tpls3/topbar.html"
+			],
+			[
+				"app.js",
+				"pages/js/app.js"
+			],
+			[
+				"main.",
+				"orange/main.go"
+			],
+			[
+				"index.html",
+				"orange/diaochang/node_modules/protractor/node_modules/selenium-webdriver/docs/source/io/index.js.src.html"
+			],
+			[
+				"test",
+				"study/test.html"
+			],
+			[
+				"zhu",
+				"models/zhugeliang.go"
+			],
+			[
+				"zhangfei",
+				"models/zhangfei.go"
+			],
+			[
+				"main",
+				"main.go"
+			],
+			[
+				".ig",
+				"diaochang/node_modules/bower/node_modules/fstream-ignore/test/.ignore"
+			],
+			[
+				"orange.go",
+				"diaochang/node_modules/karma/node_modules/connect/node_modules/send/node_modules/range-parser/.npmignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/mygo/src/coding.net/waitfish/orange/orange.sublime-project"
+			],
+			[
+				"study",
+				"~/Documents/study/test.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

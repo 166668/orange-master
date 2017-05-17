@@ -1,0 +1,56 @@
+<div  ng-controller="HostListController" ng-if="authService.isLoggedIn()">
+    <div id="page-wrapper">
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>搜索</p>
+                    <input ng-model="searchText">
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>
+            <!-- /.row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                        <a ui-sref="index.addhost">添加主机</a>
+                        </div>
+                        <!-- /.panel-heading -->
+                        <div class="panel-body">
+                            <div class="dataTable_wrapper">
+                                <table class="table table-striped table-bordered table-hover" id="dataTables-example">
+                                    <thead>
+                                        <tr>
+                                            <th></th>
+                                            <th>Hostname</th>
+                                            <th>IP</th>
+                                            <th>Tcp_list</th>
+                                            <th>Udp_list</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr ng-repeat="host in hosts|filter:searchText">
+                                            <!--<a ng-href="/host/{{host.Uuid}}">Modify</a>-->
+                                            <td><a href="#" ng-if="host.Uuid!=nil" ng-click="del(host,host.Uuid)">delete</a> </td>
+                                            <td class="center">{{host.Hostname}}</td>
+                                            <td class="center">{{host.Ip}}</td>
+                                            <td><p ng-repeat="tcp_port in host.Tcp_list">{{tcp_port}}</p></td>
+                                            <td><p ng-repeat="udp_port in host.Udp_list">{{udp_port}}</p></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <!-- /.panel-body -->
+                    </div>
+                    <!-- /.panel -->
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>
+            <!-- /.row -->
+
+  
+</div>
+</div>
+
+
+

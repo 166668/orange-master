@@ -1,0 +1,5 @@
+<div class="container">
+	<div ui-view='nav'></div>
+	<div ui-view='content'></div>
+	<div ng-if="authService.isAnonymous()" ng-controller="AppController">请<a href="/">登录</a>后进行操作</div>
+</div>
